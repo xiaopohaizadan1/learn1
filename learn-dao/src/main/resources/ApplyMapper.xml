@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.learn.test.api.provider.mapper.ApplyMapper">
+    <select id="queryApply" resultType="list">
+    <!--不能使用*号 要使用resultmap-->
+    select * from hades_loan_apply;
+    </select>
+
+</mapper>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="learn-api" />
+        <module name="learn-core" />
+        <module name="learn-dao" />
+        <module name="learn-server" />
+        <module name="learn-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="learn-api" target="1.6" />
+      <module name="learn-core" target="1.6" />
+      <module name="learn-dao" target="1.6" />
+      <module name="learn-server" target="1.8" />
+      <module name="learn-service" target="1.6" />
+      <module name="learn1" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

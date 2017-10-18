@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/learn-api/learn-api.iml" filepath="$PROJECT_DIR$/learn-api/learn-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-core/learn-core.iml" filepath="$PROJECT_DIR$/learn-core/learn-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-dao/learn-dao.iml" filepath="$PROJECT_DIR$/learn-dao/learn-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-server/learn-server.iml" filepath="$PROJECT_DIR$/learn-server/learn-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-service/learn-service.iml" filepath="$PROJECT_DIR$/learn-service/learn-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn1.iml" filepath="$PROJECT_DIR$/learn1.iml" />
+    </modules>
+  </component>
+</project>
